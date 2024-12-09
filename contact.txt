@@ -1,0 +1,2 @@
+This file is added on github dot com.
+Now this line was added in local.
